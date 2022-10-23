@@ -14,5 +14,7 @@ int main() {
     
     printf("%d + %d = %d", number1, number2, sum);
     
+    printf("Maths is Fun!");
+    
     return 0;
 }
