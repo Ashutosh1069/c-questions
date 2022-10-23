@@ -28,7 +28,7 @@ int main(void)
 	printf("Enter the element to be searched:-\n");
 	scanf("%d",&x);
     int result = binarySearch(arr, 0, n - 1, x);
-    (result == -1) ? printf("Element not found"): printf("Element is present at index %d",result);
+    (result == -1) ? printf("Element not found! \n"): printf("Element is present at index %d",result);
 	printf ("Thank You! See You Soon!");
     return 0;
 }
