@@ -66,7 +66,7 @@ int main() {
 
    printf("Stack full: %s\n" , isfull()?"true":"false");
    printf("Stack empty: %s\n" , isempty()?"true":"false");
-	printf("Thank You!");
+	printf("\nThank You!");
    
    return 0;
 }
