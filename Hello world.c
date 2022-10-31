@@ -13,6 +13,6 @@ void main()
       printf("Stay Safe! We got your back! \n");
 }
    else
-      printf("Okay! Bye! \n");
+      printf("Okay! Bye! Tata! \n");
    getch();
 }
