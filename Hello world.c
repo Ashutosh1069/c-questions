@@ -10,7 +10,7 @@ void main()
    
    if (ans=='Y')
    {
-      printf("HAPPY DIWALI! Stay Safe! \n");
+      printf("Stay Safe! We got your back! \n");
 }
    else
       printf("Okay! Bye! \n");
